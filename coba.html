@@ -12,7 +12,7 @@
 <body>
     <!-- header design -->
     <header class="header">
-        <a href="#" class="logo"><img src="https://drive.google.com/file/d/1B3jEXF1ojJMvExDGtmf78Bnze83J8XYm/view?usp=sharing" alt="lo">Vicmin<span class="animate" style="--i:1;"></span></a>
+        <a href="#" class="logo"><img src="logo.png" alt="lo">Vicmin<span class="animate" style="--i:1;"></span></a>
         <div class="bx bx-menu" id="menu-icon"></div>
         <nav class="navbar">
             <a href="#home" >home</a>
